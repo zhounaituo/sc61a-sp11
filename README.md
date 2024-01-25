@@ -1,6 +1,9 @@
 1. 课本: [Welcome to the SICP Web Site (mit.edu)](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
 2. 讲义: /resources/handout
 3. 
+## Todo-list
+
+- [ ] 给求值方式添加图片说明。
 # 资源
 - 线上 SICP: https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html
 - CS61A 档案馆: https://inst.eecs.berkeley.edu/~cs61a/archives.html

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3f54c71536f7f25d",
+        "id": "569483df653bcb12",
         "type": "tabs",
         "children": [
           {
-            "id": "03f087fdb2e28697",
+            "id": "ab19b9444562f710",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f10a314487f01615",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,20 +140,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "03f087fdb2e28697",
+  "active": "ab19b9444562f710",
   "lastOpenFiles": [
+    "Chapter1/1.1. The Elements of Programming.md",
+    "README.md",
+    "Chapter1/创建过程抽象.md",
+    "Chapter1/practice/square.scm",
+    "Chapter1/practice",
+    "resources/images/procedure-definition.png",
+    "resources/images/procedure-definitions-example.png",
+    "Chapter1/1.1. The Elements of Programming.md~",
+    "resources/images/expressions.png",
+    "resources/images",
+    "resources/books/计算机程序的构造和解释  （原书第2版）.pdf",
+    "Chapter1.Buillding_Abstractions_with_Procedures/未命名",
+    "Chapter1",
+    "resources/books/sicp.pdf",
     "resources/handout/ref-man.pdf",
     "resources/handout/r5rs.pdf",
-    "resources/handout/quick.pdf",
-    "resources/handout/nodate-21.pdf",
-    "resources/handout/mt1-1.pdf",
-    "resources/handout/mapreduce-osdi04.pdf",
-    "resources/handout/gnuemacs.pdf",
-    "resources/handout/f-2.pdf",
-    "resources/handout/f-1.pdf",
-    "resources/handout/exit.pdf",
-    "resources/handout/belowline.pdf",
-    "resources/未命名.md",
-    "README.md"
+    "resources/未命名.md"
   ]
 }
