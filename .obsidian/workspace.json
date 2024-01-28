@@ -11,8 +11,12 @@
             "id": "ab19b9444562f710",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chapter1/1.1. The Elements of Programming.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chapter1/1.1. The Elements of Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chapter1/1.1. The Elements of Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chapter1/1.1. The Elements of Programming.md"
+              }
             }
           }
         ]
@@ -142,22 +150,30 @@
   },
   "active": "ab19b9444562f710",
   "lastOpenFiles": [
-    "Chapter1/1.1. The Elements of Programming.md",
-    "README.md",
+    "Chapter1/practice/cube-root.scm~",
+    "Chapter1/practice/cube-root.scm",
+    "Chapter1/practice/square-root2.scm~",
+    "Chapter1/practice/4913",
+    "Chapter1/practice/square-root2.scm",
+    "Chapter1/practice/square-root.scm~",
+    "Chapter1/practice/square-root.scm",
+    "resources/images/ex1.2.png",
     "Chapter1/创建过程抽象.md",
+    "README.md",
+    "resources/images/procedure-definitions-example 1.png",
+    "resources/images/procedure-definition 1.png",
+    "resources/images/cond2.png",
+    "resources/images/cond1.png",
+    "Chapter1/1.1. The Elements of Programming.md",
+    "resources/images/and.png",
+    "resources/images/not.png",
+    "resources/images/or.png",
+    "resources/images/abs3.png",
+    "resources/images/abs2.png",
     "Chapter1/practice/square.scm",
     "Chapter1/practice",
-    "resources/images/procedure-definition.png",
-    "resources/images/procedure-definitions-example.png",
     "Chapter1/1.1. The Elements of Programming.md~",
-    "resources/images/expressions.png",
     "resources/images",
-    "resources/books/计算机程序的构造和解释  （原书第2版）.pdf",
-    "Chapter1.Buillding_Abstractions_with_Procedures/未命名",
-    "Chapter1",
-    "resources/books/sicp.pdf",
-    "resources/handout/ref-man.pdf",
-    "resources/handout/r5rs.pdf",
     "resources/未命名.md"
   ]
 }
