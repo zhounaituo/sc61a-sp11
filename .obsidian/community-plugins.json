@@ -1,5 +1,10 @@
 [
   "obsidian-tasks-plugin",
   "templater-obsidian",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-excalidraw-plugin",
+  "obsidian-outliner",
+  "obsidian-annotator",
+  "dataview",
+  "obsidian-linter"
 ]

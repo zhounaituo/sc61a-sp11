@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "73b53808a2671747",
+        "id": "20134119aa5aa09f",
         "type": "tabs",
         "children": [
           {
-            "id": "c42c5fa0bfcdd512",
+            "id": "d6ee0aeea45a82ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -145,17 +137,25 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c42c5fa0bfcdd512",
+  "active": "ad5b03b6287bb76a",
   "lastOpenFiles": [
-    "notes/week1/book/1.1. The Elements of Programming.md",
-    "notes/week1/book/创建过程抽象.md",
+    "4913",
+    "notes/week1/summary.md",
+    "notes/week1/notes/Equipment.md",
     "notes/week1/notes/functional programming.md",
     "notes/week1/video/02 Functional Programming.md",
+    "[CS.md",
     "notes/week1/video/01 Function Programming.md",
+    "notes/week1/book/创建过程抽象.md",
+    "notes/week1/book/1.1. The Elements of Programming.md",
+    "resources/books/sicp.pdf",
+    "resources/handout/notes.pdf",
     "README.md",
+    "未命名.md",
     "notes/week2/video",
     "notes/week2/notes",
     "notes/week2/book",
@@ -164,8 +164,6 @@
     "resources/apps",
     "resources/application",
     "resources/新建文件夹",
-    "resources/lectures/1.1/order.scm",
-    "resources/lectures/1.1",
     "resources/images/terminology.png",
     "notes/week1/创建过程抽象.md",
     "notes/week1/1.1. The Elements of Programming.md",
