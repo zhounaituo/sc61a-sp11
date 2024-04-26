@@ -1,5 +1,5 @@
 ## CS61A: Structure and Interpretation of Computer Programs
-This repository contains all the resources and books for self-studying CS61A that I've organized myself. I chose the  [cs61a-sp10](https://inst.eecs.berkeley.edu/~cs61a/sp10/) version of the course, because it teaches using Lisp language and provides complete open-source videos([archive](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E)[YouTube](https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9)[bilibili](https://www.bilibili.com/video/av40460492/)). If you need different  versions of courses, please click [here](https://inst.eecs.berkeley.edu/~cs61a/archives.html).
+This repository contains all the resources and books for self-studying CS61A that I've organized myself. I chose the  [cs61a-sp10](https://inst.eecs.berkeley.edu/~cs61a/sp10/) version of the course, because it teaches using Lisp language and provides complete open-source videos([archive](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E) [YouTube](https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9) [bilibili](https://www.bilibili.com/video/av40460492/)). If you need different  versions of courses, please click [here](https://inst.eecs.berkeley.edu/~cs61a/archives.html).
 ### Todo-list
 - [ ] Create course catalogue
 ### Calendar
