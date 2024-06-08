@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c05127b7cb395d38",
+        "id": "a363b957f8975456",
         "type": "tabs",
         "children": [
           {
-            "id": "4441843127f09e7a",
+            "id": "48077fd42f143697",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "f10a314487f01615",
@@ -165,20 +164,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4441843127f09e7a",
+  "active": "48077fd42f143697",
   "lastOpenFiles": [
-    "homeworks/hw1.5.scm~",
+    "learning-journal.md",
+    "README.md",
+    "reader/notes.pdf",
+    "homeworks/hw1.6.scm~",
     "homeworks/4913",
+    "homeworks/hw1.6.scm",
+    "homeworks/hw1.5.scm~",
     "homeworks/hw1.5.scm",
     "homeworks/hw1.4.scm~",
     "homeworks/hw1.4.scm",
     "homeworks/hw1.3.scm~",
     "homeworks/hw1.3.scm",
-    "homeworks/hw1.2.scm~",
-    "homeworks/hw1.2.scm",
-    "homeworks/hw1.1.scm~",
-    "homeworks/hw1.1.scm",
-    "README.md",
     "my-notes/draft.md",
     "my-notes/older/User Interface.md",
     "my-notes/older/Recursion and iteration.md",
