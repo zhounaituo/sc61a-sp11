@@ -8,7 +8,7 @@ Original calendar is [here](resources/reader/glance.pdf).
 
 | <b>Week</b> | <b>Lecture</b>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | <b>Textbook<b>                                                              | <b>Lab & Discussion Links</b>                                                                                                                                                                                                  | <b>Homework & Project</b>                                                                                             |
 | :---------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-|      1      | Functional programminga</br><a id="customButton" class="clicked" href="https://www.youtube.com/watch?v=4leZ1Ca4f0g&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=1&t=136s&pp=iAQB">Video 1</a> <a id="customButton" href="https://www.youtube.com/watch?v=8aFp84teahw&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=2&t=27s&pp=iAQB">Video 2</a>                                                                                                                                                                                                                                                                                                                                                                                                                              | <a id="customButton">Sec .1.1</a>                                           | [First Day Handout](https://inst.eecs.berkeley.edu/~cs61a/sp10/0.pdf)                                                                                                                                                          |                                                                                                                       |
+|      1      | Functional programminga</br><a id="customButton" href="https://www.youtube.com/watch?v=4leZ1Ca4f0g&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=1&t=136s&pp=iAQB">Video 1</a> <a id="customButton" href="https://www.youtube.com/watch?v=8aFp84teahw&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=2&t=27s&pp=iAQB">Video 2</a>                                                                                                                                                                                                                                                                                                                                                                                                                                              | <a id="customButton" >Sec .1.1</a>                                          | [First Day Handout](/resources/reader/first-day-handout.pdf)                                                                                                                                                                   |                                                                                                                       |
 |      2      | Higher-order procedures</br><a id="customButton" href="https://www.youtube.com/watch?v=NcrPl8Ocwpo&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=3&t=419s&pp=iAQB">Video 3</a> <a id="customButton" href="https://www.youtube.com/watch?v=OVI5ok0ahmc&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=4&pp=iAQB">Video 4</a> <a id="customButton" href="https://www.youtube.com/watch?v=tJB3Lk8_m7w&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=5&pp=iAQB">UI(Key) 5</a>                                                                                                                                                                                                                                                                                                      | <a id="customButton">Sec. 1.3</a>                                           |                                                                                                                                                                                                                                |                                                                                                                       |
 |      3      | Recursion and iteration</br><a id="customButton" href="https://www.youtube.com/watch?v=r2-TaLTs7w0&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=6&pp=iAQB">UI(Key) 6</a> <a id="customButton" href="https://www.youtube.com/watch?v=FUaY0N4qVPY&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=7&pp=iAQB">Orders of Growth 7</a> <a id="customButton" href="https://www.youtube.com/watch?v=gOupSAT_acA&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=8&pp=iAQB">Video 8</a>                                                                                                                                                                                                                                                                                                  | <a id="customButton">Sec. 1.2.1-4</a>                                       |                                                                                                                                                                                                                                | [Project 1: Twenty-one](https://inst.eecs.berkeley.edu/~cs61a/reader/nodate-21.pdf)                                   |
 |      4      | Data abstraction, sequences</br><a id="customButton" href="https://www.youtube.com/watch?v=8LIZqnf7gIs&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=9&pp=iAQB">Video 9</a> <a id="customButton" href="https://www.youtube.com/watch?v=-50z10gewhs&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=10&pp=iAQB">Video 10</a> <a id="customButton" href="https://www.youtube.com/watch?v=Cj8Y8pvs-6I&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=11&pp=iAQB">Calculator 11</a>                                                                                                                                                                                                                                                                                                  | <a id="customButton">Sec. 2.1</a> <a id="customButton">Sec. 2.2.1</a>       |                                                                                                                                                                                                                                | <a id="customButton">Midterm 1</a>                                                                                    |
@@ -26,7 +26,30 @@ Original calendar is [here](resources/reader/glance.pdf).
 |     16      | Review</br><a id="customButton" href="https://www.youtube.com/watch?v=pqr5Ss8uXnQ&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=44&pp=iAQB">Video 44</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                             |                                                                                                                                                                                                                                |                                                                                                                       |
 
 > The calendar does not include everything, but you can find the following links: [Lab assignments](https://inst.eecs.berkeley.edu/~cs61a/reader/nodate-labs.pdf), [volume 1](https://inst.eecs.berkeley.edu/~cs61a/reader/vol1.html)/[volume 2](https://inst.eecs.berkeley.edu/~cs61a/reader/vol2.html)
-
+### Structures
+```bash
+cs61a-sp11/
+├── codes
+│   ├── examples/           # 示例代码
+│   ├── exercises/          # 练习题
+│   ├── homeworks/          # 家庭作业
+│   ├── labs/               # 实验课内容
+│   └── projects/           # 项目作业
+├── docs
+│   ├── FAQ.md              # 常见问题解决
+│   ├── Quick-start.md      # 快速入门指南
+│   ├── challenges.md       # 项目中遇到的困难
+│   ├── glossary.md         # 重要概念
+│   └── progress.md         # 项目进程记录
+├── notes/                  # 课程笔记
+├── resources/              # 资源
+│   ├── apps/               # STk 安装包
+│   ├── lectures/
+│   ├── reader/             # 课件
+│   └── textbooks/          # 课本
+├── README.md               # 项目主要说明
+└── tree.xmind              # 项目结构
+```
 ### Preparation
 This course has two interpreters I used, [stk](http://inst.eecs.berkeley.edu/~scheme/) and [mit-scheme](https://www.gnu.org/software/mit-scheme/).
 ### Download
@@ -46,9 +69,17 @@ This course has two interpreters I used, [stk](http://inst.eecs.berkeley.edu/~sc
 	- [DeathKing | Learning-SICP](https://github.com/DeathKing/Learning-SICP)
 	- [fgalassi](https://github.com/fgalassi/cs61a-sp11?tab=readme-ov-file)
 	- [PKUFlyingPig](https://github.com/PKUFlyingPig/CS61A)
-- others
-	- [Brian Harbey](https://people.eecs.berkeley.edu/~bh/downloads)
-	- [Hexlet SICP](https://sicp.hexlet.io/)
-	- [TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+- Other Course
+	- [CS61as](https://berkeley-cs61as.github.io/resources.html): CS61a 自学版
+- Lisp Scheme
 	- [UCB Scheme](https://inst.eecs.berkeley.edu/~scheme/)
+	- [Racket](https://docs.racket-lang.org/manual@simply-scheme/index.html)
+- Other Notes 
+	- [Berkeley cs61a Spring 2011 Computer Science Course](https://github.com/theurere/berkeley_cs61a_spring-2011_archive)
+	- [Roman Bird SICP](https://romanbird.github.io/sicp/)[作业仓库](https://github.com/romanbird/sicp/tree/main)
+- others
+	- [Brian Harbey](https://people.eecs.berkeley.edu/~bh/downloads)：Brian Harbey 作者主页
+	- [Hexlet SICP](https://sicp.hexlet.io/)：自学课程跟踪。
+	- [TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+	- [SICP 在线课本](https://sarabander.github.io/sicp/html/index.xhtml)
 

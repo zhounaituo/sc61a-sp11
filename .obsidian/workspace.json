@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ae3c1be41a36fa50",
+        "id": "1c76dd85028469b1",
         "type": "tabs",
         "children": [
           {
-            "id": "5772c89aa55f998f",
+            "id": "7df7a4b932c103d7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "textbooks/sicp.pdf"
+                "file": "course/notes/lectures/week1_function_programming.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "sicp"
+              "icon": "lucide-file",
+              "title": "week1_function_programming"
             }
           }
         ]
@@ -75,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 252.5
   },
   "right": {
     "id": "f10a314487f01615",
@@ -137,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "course/notes/lectures/week1_function_programming.md"
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "week1_function_programming 的大纲"
             }
           },
           {
@@ -164,11 +166,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,44 +185,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5772c89aa55f998f",
+  "active": "ad5b03b6287bb76a",
   "lastOpenFiles": [
-    "examples/1.1.7_newton_method.scm",
-    "README.md",
-    "textbooks/sicp.pdf",
-    "notes/textbook/Ch1",
-    "notes/textbook",
-    "examples/2.1.1.scm",
-    "examples/1.2.6.scm",
-    "examples/1.2.5.scm",
-    "examples/1.2.4.scm",
-    "examples/1.2.2.scm",
-    "examples/1.2.1.scm",
-    "examples/1.1.8.scm",
-    "notes/learning-journal.md",
-    "my-notes/older/创建过程抽象.md",
-    "notes/older/创建过程抽象.md",
-    "notes/older/User Interface.md",
-    "notes/older/summary.md",
-    "notes/older/Recursion and iteration.md",
-    "notes/older/Procedures and the Processes They Generate.md",
-    "notes/older/higher-order procedures.md",
-    "notes/older/Higher Order Procedures.md",
-    "notes/older/functional programming.md",
-    "notes/older/1.3.Formulating abstractions with higher-order procedures.md",
-    "notes/older/1.1. The Elements of Programming.md",
-    "notes/older/02 Functional Programming.md",
-    "notes/older/01 Function Programming.md",
-    "notes/draft.md",
-    "my-notes/older/02 Functional Programming.md",
-    "my-notes/older/1.3.Formulating abstractions with higher-order procedures.md",
-    "my-notes/older/1.1. The Elements of Programming.md",
-    "my-notes/older/01 Function Programming.md",
-    "my-notes/draft.md",
-    "schedule.md",
-    "未命名.md",
-    "my-notes/older/User Interface.md",
-    "my-notes/older/Recursion and iteration.md",
+    "course/notes/lectures/week1_functional_programming.md",
+    "course/notes/lectures/week2_read_higher_order_procedures.md",
+    "course/notes/lectures/week2_video_Functional_Programming.md",
+    "course/notes/lectures/week3_Recursion_and_iteration.md",
+    "course/notes/lectures/week1_function_programming.md",
+    "course/notes/summeries/week1_summary.md",
+    "course/codes/projects/project1/twenty-one.scm",
+    "course/codes/projects/project1/joker.scm",
+    "course/notes/journal/2024-05-10_14_journal.md",
+    "course/codes/projects/project1",
+    "course/codes/homeworks/hw1.6.scm",
+    "course/codes/homeworks/hw1.5.scm",
+    "course/codes/homeworks/hw1.4.scm",
+    "course/codes/homeworks/hw1.3.scm",
+    "course/codes/homeworks/hw1.2.scm",
+    "course/codes/homeworks/hw1.1.scm",
+    "course/notes/summeries",
+    "courses/notes/summeries/week1_summary.md",
+    "courses/notes/lectures/week3_Recursion_and_iteration.md",
+    "courses/notes/lectures/week2_video_Functional_Programming.md",
+    "courses/notes/lectures/week2_read_higher_order_procedures.md",
+    "courses/notes/lectures/week1_function_programming.md",
+    "courses/notes/lectures/week1_functional_programming.md",
+    "courses/notes/journal/2024-05-10_14_journal.md",
+    "lectures/notes/lectures/week3_Recursion_and_iteration.md",
+    "lectures/notes/lectures/week2_video_Functional_Programming.md",
+    "lectures/notes/lectures/week2_read_higher_order_procedures.md",
+    "lectures/notes/lectures/week1_function_programming.md",
+    "lectures/notes/lectures/week1_functional_programming.md",
+    "lectures/notes/notes/week3_Recursion_and_iteration.md",
+    "lectures/notes/notes/week2_video_Functional_Programming.md",
+    "lectures/notes/notes/week2_read_higher_order_procedures.md",
+    "lectures/notes/notes/week1_function_programming.md",
+    "lectures/notes/notes/week1_functional_programming.md",
+    "lectures/notes/note/week3_Recursion_and_iteration.md",
     "Pasted image 20240416185317.png",
     "resources/images/let-for-language.png",
     "resources/images/let.png",

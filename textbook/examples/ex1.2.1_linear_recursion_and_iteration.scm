@@ -1,3 +1,5 @@
+; Linear recursion and iteration
+
 (define (factorial n)
   (if (= n 1)
       1

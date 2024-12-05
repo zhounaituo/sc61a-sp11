@@ -1,3 +1,5 @@
+; Example 1.1.8: Procedures as Black-Box Abstractions
+
 (define (square x) (* x x))
 (define (square x) (exp (double (log x))) )
 (define (double x) (+ x x))

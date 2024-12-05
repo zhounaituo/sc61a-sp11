@@ -1,3 +1,5 @@
+; Example: Testing for Primality
+
 (define (smallest-divisor n) (find-divisor n 2))
 (define (find-divisor n test-divisor)
   (cond ((> (square test-divisor) n) n)
