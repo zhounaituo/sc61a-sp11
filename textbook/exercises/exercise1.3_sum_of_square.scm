@@ -1,0 +1,7 @@
+(define (sum-of-square x y z)
+  (- (+ (square x) (square y) (square z)) 
+	 (square (minor (minor x y) z))))
+(define (minor x y)
+  (if (< x y) x y))
+(define (square x)
+  (* x x))

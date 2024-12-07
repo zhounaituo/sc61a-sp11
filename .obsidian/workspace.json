@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2640e51c024d883d",
+        "id": "d985e34e998f5ee8",
         "type": "tabs",
         "children": [
           {
-            "id": "08d22da69c42c777",
+            "id": "e22a0523fa474f49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "textbook/notes/ch1.3_Formulating_abstractions_with_higher_order_procedures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ch1.3_Formulating_abstractions_with_higher_order_procedures"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "textbook/notes/ch1.3_Formulating_abstractions_with_higher_order_procedures.md"
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "ch1.3_Formulating_abstractions_with_higher_order_procedures 的大纲"
             }
           },
           {
@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,23 +181,28 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "html-server:Turn Http Server On": false,
+      "html-server:Turn Http Server Off": false
     }
   },
-  "active": "08d22da69c42c777",
+  "active": "e22a0523fa474f49",
   "lastOpenFiles": [
-    "resources/textbooks/sicp.md",
-    "resources/reader/first-day-handout.pdf",
+    "textbook/notes/ch1.2_Procedures_and_the_Processes_They_Generate.md",
+    "textbook/notes/ch1.1_The_Elements_of_Programming.md",
+    "textbook/exercises/exercise1.5_ben_bitdiddle.scm",
+    "textbook/exercises/exercise1.4_a_plus_abs_b.scm",
+    "textbook/exercises/exercise1.3_sum_of_square.scm",
+    "textbook/exercises/exercise1.2_transform.scm",
+    "textbook/exercises/exercise1.1_expression.scm",
+    "textbook/exercises/exercise_ben_bitdiddle.scm",
+    "textbook/exercises/exercise_ben_bitdiddle",
+    "textbook/exercises/exercise1.4_a_plus_abs_b",
+    "textbook/exercises/exercise1.3_sum_of_square",
+    "textbook/exercises/exercise1.2_transform",
     "README.md",
-    "resources/textbooks/sicp.pdf",
-    "textbook/exercises/exercise1.22_performing_the_test.scm",
-    "textbook/exercises/exercise1.20_gcd.scm",
-    "textbook/exercises/exercise1.16_fast_expt.scm",
-    "textbook/exercises/exercise1.15_sufficiently_small.scm",
-    "textbook/exercises/exercise1.12_pascals_triangle.scm",
-    "textbook/exercises/exercise1.11_recursive_and_iterative.scm",
-    "textbook/exercises/exercise1.10_ackermanns_function.scm",
-    "textbook/exercises/exercise1.9_substitution_model.scm",
+    "resources/textbooks/sicp.md",
+    "textbook/notes/ch1.3_Formulating_abstractions_with_higher_order_procedures.md",
     "course/notes/lectures/week1_function_programming.md",
     "course/notes/lectures/week1_functional_programming.md",
     "course/notes/lectures/week2_video_Functional_Programming.md",
@@ -219,10 +223,6 @@
     "lectures/notes/lectures/week1_function_programming.md",
     "lectures/notes/lectures/week1_functional_programming.md",
     "lectures/notes/notes/week3_Recursion_and_iteration.md",
-    "lectures/notes/notes/week2_video_Functional_Programming.md",
-    "lectures/notes/notes/week2_read_higher_order_procedures.md",
-    "lectures/notes/notes/week1_function_programming.md",
-    "lectures/notes/notes/week1_functional_programming.md",
     "Pasted image 20240416185317.png",
     "resources/images/let-for-language.png",
     "resources/images/let.png",
