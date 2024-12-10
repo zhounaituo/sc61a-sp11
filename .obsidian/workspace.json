@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "course/notes/lectures/week3_Recursion_and_iteration.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "week3_Recursion_and_iteration"
             }
           }
         ]
@@ -189,9 +189,11 @@
   },
   "active": "6a7e59dabcfef989",
   "lastOpenFiles": [
-    "resources/textbooks/sicp.md",
+    "textbook/notes/ch1.2_Procedures_and_the_Processes_They_Generate.md",
+    "textbook/notes/ch1.3_Formulating_abstractions_with_higher_order_procedures.md",
     "README.md",
     "course/notes/lectures/week3_Recursion_and_iteration.md",
+    "resources/textbooks/sicp.md",
     "resources/lectures/1.3/sum.scm",
     "resources/lectures/1.3/roots.scm",
     "resources/lectures/1.3/keep.scm",
@@ -202,8 +204,6 @@
     "resources/lectures/1.2/count.scm",
     "resources/lectures/1.2/bentley",
     "scripts/download_files.sh",
-    "textbook/notes/ch1.3_Formulating_abstractions_with_higher_order_procedures.md",
-    "textbook/notes/ch1.2_Procedures_and_the_Processes_They_Generate.md",
     "textbook/notes/ch1.1_The_Elements_of_Programming.md",
     "course/notes/lectures/week1_function_programming.md",
     "course/notes/lectures/week1_functional_programming.md",
