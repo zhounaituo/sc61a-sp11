@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a08c85462d128c40",
+        "id": "ad3d24d6d6b1d172",
         "type": "tabs",
         "children": [
           {
-            "id": "6a7e59dabcfef989",
+            "id": "2205c23fe70e3ce7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "course/notes/lectures/week3_Recursion_and_iteration.md",
+                "file": "textbook/notes/ch2.1_Build_Abstractions_with_Procedures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "week3_Recursion_and_iteration"
+              "title": "ch2.1_Build_Abstractions_with_Procedures"
             }
           }
         ]
@@ -187,29 +187,32 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "6a7e59dabcfef989",
+  "active": "2205c23fe70e3ce7",
   "lastOpenFiles": [
-    "textbook/notes/ch1.2_Procedures_and_the_Processes_They_Generate.md",
+    "textbook/examples/ex2.1.1_linear_combination.scm",
+    "textbook/examples/ex2.1.1_rational_numbers.scm",
+    "textbook/examples/ex2.1.1_rational_numbers",
+    "textbook/examples/ex2.1.1_linear_combination",
+    "textbook/examples/ex_2.1.1_linear_combination",
     "textbook/notes/ch1.3_Formulating_abstractions_with_higher_order_procedures.md",
+    "textbook/notes/ch2.1_Build_Abstractions_with_Procedures.md",
     "README.md",
-    "course/notes/lectures/week3_Recursion_and_iteration.md",
     "resources/textbooks/sicp.md",
+    "course/notes/lectures/week4_data_abstraction_sequences.md",
+    "resources/lectures/2.1/cons.scm",
+    "course/notes/lectures/week3_Recursion_and_iteration.md",
+    "course/notes/lectures/week1_functional_programming.md",
+    "course/notes/lectures/week2_read_higher_order_procedures.md",
+    "course/notes/lectures/week2_video_Functional_Programming.md",
+    "course/notes/summeries/week1_summary.md",
+    "course/notes/lectures/week4_data_abstraction_sequences",
+    "resources/lectures/2.1/total.scm",
+    "resources/lectures/2.1",
+    "emacs-X11.exe.stackdump",
+    "textbook/notes/ch1.2_Procedures_and_the_Processes_They_Generate.md",
     "resources/lectures/1.3/sum.scm",
-    "resources/lectures/1.3/roots.scm",
-    "resources/lectures/1.3/keep.scm",
-    "resources/lectures/1.3/general.scm",
-    "resources/lectures/1.3/filter.scm",
-    "resources/lectures/1.2/pascal.scm",
-    "resources/lectures/1.2/growth.scm",
-    "resources/lectures/1.2/count.scm",
-    "resources/lectures/1.2/bentley",
-    "scripts/download_files.sh",
     "textbook/notes/ch1.1_The_Elements_of_Programming.md",
     "course/notes/lectures/week1_function_programming.md",
-    "course/notes/lectures/week1_functional_programming.md",
-    "course/notes/lectures/week2_video_Functional_Programming.md",
-    "course/notes/lectures/week2_read_higher_order_procedures.md",
-    "course/notes/summeries/week1_summary.md",
     "course/notes/journal/2024-05-10_14_journal.md",
     "courses/notes/summeries/week1_summary.md",
     "courses/notes/lectures/week3_Recursion_and_iteration.md",
@@ -222,8 +225,6 @@
     "lectures/notes/lectures/week2_video_Functional_Programming.md",
     "lectures/notes/lectures/week2_read_higher_order_procedures.md",
     "lectures/notes/lectures/week1_function_programming.md",
-    "lectures/notes/lectures/week1_functional_programming.md",
-    "lectures/notes/notes/week3_Recursion_and_iteration.md",
     "Pasted image 20240416185317.png",
     "resources/images/let-for-language.png",
     "resources/images/let.png",
