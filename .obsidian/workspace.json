@@ -11,10 +11,14 @@
             "id": "8e7188aa8ac6dfce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ]
@@ -183,8 +187,13 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "ad5b03b6287bb76a",
+  "active": "8e7188aa8ac6dfce",
   "lastOpenFiles": [
+    "textbook/exercises/exercise2.7_extended_interval_arithmetic.scm",
+    "textbook/exercises/exercise_extended_interval_arithmetic.scm",
+    "textbook/exercises/exercise2.6_church_numerals.scm",
+    "textbook/exercises/exercise2.5_2a3b.scm",
+    "textbook/exercises/exercise2.4_pairs.scm",
     "textbook/notes/ch2.1_Build_Abstractions_with_Procedures.md",
     "textbook/examples/ex2.1.3_pair.scm",
     "textbook/examples/ex2.1.3_pair",
@@ -193,10 +202,6 @@
     "textbook/exercises/exercise2.2_line_segments.scm",
     "textbook/exercises/exercise2.2_line_segments",
     "README.md",
-    "textbook/exercises/exercise2.1_rational_number.scm",
-    "textbook/exercises/exercise2.1_rational_number",
-    "textbook/examples/ex2.1.1_linear_combination.scm",
-    "textbook/examples/ex2.1.1_rational_numbers.scm",
     "textbook/notes/ch1.3_Formulating_abstractions_with_higher_order_procedures.md",
     "resources/textbooks/sicp.md",
     "course/notes/lectures/week4_data_abstraction_sequences.md",
