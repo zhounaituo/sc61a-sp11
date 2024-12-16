@@ -8,3 +8,5 @@
 	2. **cons** 用于结合基础数据生成 **pair**
 	3. **car** 获取 **pair** 的第一个数据
 	4. **cdr** 获取 **pair** 的第二个数据
+4. **cons 的闭包原则（_Clouser property_）**：cons 创建的 pair 对象，同样可以通过 cons 形成新的 pair 对象。应该说是可嵌套的意思。这个功能可以生成更有层次结构的数据。
+5. **层次结构(_hierarchical structures_)**：结构本身通过更小的结构组成。

@@ -191,10 +191,13 @@
 ; the one shown above.
 
 (define (make-center-percent center percentage)
-    (to-interval center (percent center percentage)))
+    (let ((delta (* center (/ percentage 100))))
+        (make-interval (- center delta) (+ center delta))))
 
-(define (percent center percentage)
-    (* center percentage))
+(define (percent interval)
+    (let ((center (/ (+ (lower-bound interval) (upper-bound interval)) 2))
+          (range (/ (- (upper-bound interval) (lower-bound interval)) 2)))
+        (* (/ range center) 100)))
 
 ; Exercise 2.13. Show that under the assumption of small 
 ; percentage tolerances there is a simple formula for the 
@@ -233,3 +236,23 @@
         (div-interval
          one (add-interval (div-interval one r1)
                            (div-interval one r2)))))
+; Exercise 2.15. Eva Lu Ator, another user, has also noticed 
+; the different intervals computed by different but 
+; algebraically equivalent expressions. She says that a 
+; formula to compute with intervals using Alyssa's system will 
+; produce tighter error bounds if it can be written in such a 
+; form that no variable that represents an uncertain number is 
+; repeated. Thus, she says, par2 is a ``better'' program for 
+; parallel resistances than par1. Is she right? Why?
+
+; Answer: In par1, both r1 and r2 are each repeated once, 
+; leading to the overall error not being effectively 
+; accumulated. Therefore, par2 is more accurate.
+
+; Exercise 2.16. Explain, in general, why equivalent algebraic 
+; expressions may lead to different answers. Can you devise an 
+; interval-arithmetic package that does not have this 
+; shortcoming, or is this task impossible? (Warning: This 
+; problem is very difficult.)
+
+; Answer: I believe this issue is due to precision loss during the computation process. Computers can only store a limited number of values, so it is inevitable that different computations will lead to different results due to precision loss.
