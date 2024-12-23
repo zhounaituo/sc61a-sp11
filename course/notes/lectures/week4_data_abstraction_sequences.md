@@ -9,6 +9,7 @@
 - 数据抽象有哪些部分组成？
 - 如何使用这个抽象思想？
 - **分布式计算(_MapReduce_)**：主要用于处理和生成大规模数据集的编程模式。
+	- 模式：`(mapreduce mapper reducer base-case data)`
 	- 主要过程：
 		- Map：接受一组数据（大量的小块数据）并处理为一组中间 key-value 对；
 		- Reduce：接受来自 map 函数生成的 key-value 对，并将相同 key 的所有 value 合并起来。

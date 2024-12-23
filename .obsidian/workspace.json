@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "course/notes/lectures/week4_data_abstraction_sequences.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "week4_data_abstraction_sequences"
             }
           }
         ],
@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5,
-    "collapsed": true
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,6 +199,8 @@
   },
   "active": "2c4f858d556527eb",
   "lastOpenFiles": [
+    "course/codes/homeworks/hw_week4.scm",
+    "README.md",
     "course/notes/lectures/week4_data_abstraction_sequences.md",
     "course/notes/lectures/week3_Recursion_and_iteration.md",
     "resources/lectures/summary",
@@ -212,7 +213,6 @@
     "resources/lectures/unix",
     "resources/lectures/Net/stk-sockets",
     "resources/lectures/Net",
-    "README.md",
     "course/notes/examples/未命名.md",
     "course/notes/summeries/week1_summary.md",
     "draft.md",
